@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Termina Test';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/fonts/termina-test/TerminaTest-Regular.otf') format('opentype');
+  font-display: swap;
+  text-rendering: optimizelegibility;
+}
+
+@font-face {
+  font-family: 'Termina Test';
+  font-style: normal;
+  font-weight: 500;
+  src: url('/fonts/termina-test/TerminaTest-Medium.otf') format('opentype');
+  font-display: swap;
+  text-rendering: optimizelegibility;
+}
+
+@font-face {
+  font-family: 'Termina Test';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/fonts/termina-test/TerminaTest-Bold.otf') format('opentype');
+  font-display: swap;
+  text-rendering: optimizelegibility;
+}
